@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+#tittle{
+    width: 500px;
+}
+#container{
+    display: flex;
+    flex-flow: row wrap;
+}
+.div-wrap{
+    border: 1px solid gray;
+    position: relative;
+    display: block;
+    width: 243px;
+    padding: 10px;
+}
+.image{
+    width: 150px;
+    height: 150px;
+}
