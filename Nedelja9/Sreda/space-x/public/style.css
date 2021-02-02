@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url('./stars.jpg');
+}
+#root{
+    text-align: center;
+}
+img{
+    max-width: 100px;
+}
+#option{
+    background-color: rgba(0, 0, 0);
+}
